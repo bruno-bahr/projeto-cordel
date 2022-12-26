@@ -13,6 +13,7 @@
 }
 
 html, body{
+    background-size: 98vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     min-height: 100%;
     background-color: darkgrey;
