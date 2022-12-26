@@ -57,7 +57,7 @@ section{
     padding-left: 35px;
 }
 
-section > p{
+section > p {
     padding-bottom: 1.5em;
 }
 
@@ -67,16 +67,15 @@ section.normal{
 
 section.imagem{
     background-color: goldenrod;
-    box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0.527);
+    box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0.377);
     background-attachment: fixed;
 
 }
 
 section.imagem > p{
-    background-color: rgb(230, 230, 230);
-    max-width: 390px;
-    padding-left: 8px;
-    margin-left: -8px;
+    background-color: black;
+    padding-left: 5px;
+    margin-left: -5px;
     text-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.555);
 }
 
