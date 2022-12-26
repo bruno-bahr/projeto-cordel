@@ -13,10 +13,10 @@
 }
 
 html, body{
-    background-size: 98vh;
+    background-size: 100vh, 100vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     min-height: 100%;
-    background-color: darkgrey;
+    background-color: black;
 }
 
 header{
@@ -97,13 +97,11 @@ footer{
     color: white;
     background-color: black;
     padding: 8px;
-    margin-top: 10px;
     text-align: center;
 }
 
 footer > p > a{
     color: white;
-    
     text-decoration: none;
     font-variant: small-caps;
 }
