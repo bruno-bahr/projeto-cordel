@@ -109,7 +109,7 @@ footer > p > a{
 
 footer a:hover{
     letter-spacing: 3px;
-    color: goldenrod;
+    color: rgba(218, 165, 32, 0.774);
     font-variant: small-caps;
     font-size: 25px;
 
